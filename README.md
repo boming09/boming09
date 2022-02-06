@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Bomi 👋
 
 <!--
 **boming09/boming09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Bomi Kim, a passionate self-taught backEnd web developer from South Korea.
+- 🌱 I’m currently learning Java & Spring
+- 👯 I’m looking to collaborate on Github Readme Status
+- 💬 Ask me about anything
+
+### Languages and skills :   
