@@ -21,3 +21,6 @@ Hi, I'm Bomi Kim, a passionate self-taught backEnd web developer from South Kore
 - 💬 Ask me about anything
 
 ### Languages and skills :   
+
+
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=boming09)](https://github.com/anuraghazra/github-readme-stats)
