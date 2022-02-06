@@ -45,7 +45,9 @@ Hi, I'm Bomi Kim, a passionate self-taught backEnd web developer from South Kore
 <h3 align="center">tools</h3>
 <img align="center" src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ### Languages and skills :   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=boming09)](https://github.com/anuraghazra/github-readme-stats)
