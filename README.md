@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate self-taught backEnd web developer from South Korea.</h3>
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=250&section=header&text=Hi%20I'm%20Bomi%20Kim&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&&fontColor=d6ace6&height=250&section=header&text=Hi%20I'm%20Bomi%20Kim&fontSize=50)
 
 <h1 align="center">👋 Hi there</h1>
 
