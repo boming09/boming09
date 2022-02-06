@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <h3 align="left">Languages and skills :</h3>
+  
 ![boming09's GitHub stats](https://github-readme-stats.vercel.app/api?username=boming09&show_icons=true&theme=dracula)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boming09&layout=compact&theme=dracula&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 <!-- https://velog.io/@dding_ji/Github-Readme-Profile -->
