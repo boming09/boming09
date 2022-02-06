@@ -20,10 +20,7 @@ Hi, I'm Bomi Kim, a passionate self-taught backEnd web developer from South Kore
 - 👯 I’m looking to collaborate on Github Readme Status
 - 💬 Ask me about anything
 
-### Languages and skills :   
 
-
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=boming09)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h1 align="center">Hi 👋, I'm bomi</h1>
@@ -49,4 +46,6 @@ Hi, I'm Bomi Kim, a passionate self-taught backEnd web developer from South Kore
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
+### Languages and skills :   
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=boming09)](https://github.com/anuraghazra/github-readme-stats)
 [![boming09's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=boming09&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/boming09)
