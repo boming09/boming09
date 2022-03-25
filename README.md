@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
   <br>
 <h4 align="center">💜ME💜</h4>
-<a href="https://bloom-step-9db.notion.site/Hello-My-Project-e88e879a63b04f04961eae09ec60a644" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
   
   <br><br>
 
@@ -42,4 +42,7 @@ Here are some ideas to get you started:
     
   </div>
 <!-- https://velog.io/@dding_ji/Github-Readme-Profile 
-     https://gist.github.com/rxaviers/7360908 -->
+     https://gist.github.com/rxaviers/7360908
+    notion 
+     <a href="https://bloom-step-9db.notion.site/Hello-My-Project-e88e879a63b04f04961eae09ec60a644" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
+-->
